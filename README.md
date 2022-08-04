@@ -8,4 +8,4 @@
 | kubernetes.io | CLI | | DE | | ✅ | https://kubernetes.io/zh-cn/docs/tutorials/hello-minikube/ | 点击 Launch Terminal，允许外连80，443|
 | baidu aistudio | CLI | | CN | | No | https://aistudio.baidu.com/aistudio/projectdetail/1352813| |
 | huawei cloudshell | CLI | | CN | | No | https://shell.huaweicloud.com/| |
-
+| cloudstudio | CLI | | CN | | ✅ | https://cloudstudio.net/| |
